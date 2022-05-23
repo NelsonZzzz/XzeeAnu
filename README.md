@@ -1,3 +1,6 @@
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XzeeBotz/XzeeAnu)
+
 <p align="center">
 <img src="https://telegra.ph/file/0c948e309cc07fb7f3cfa.jpg" alt="XzeeBotz" width="500"/>
 
