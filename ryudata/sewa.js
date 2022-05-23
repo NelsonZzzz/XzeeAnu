@@ -9,7 +9,7 @@ exports.sewa = () => {
 
 *🏦 PAYMENT :*
 - Gopay
-- Dana
-- Paypal
+- Pulsa
+- Saweria
 `
 }
