@@ -22,18 +22,18 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Own DipaLand' //Ganti Jadi Namamu
-global.owner = ['62','6283891921787'] //Kalo Mau Lebih Tambahin Aja
+global.namaowner = 'OWNER BOT WA' //Ganti Jadi Namamu
+global.owner = ['6281381685954'] //Kalo Mau Lebih Tambahin Aja
 global.nomerowner = '6281381685954' //Owner Utama Istilahnya
-global.namabot = 'DipaLand Counter' //Ganti Jadi Nama Botmu
-global.packname = 'Yg Nyolong Pantatnya Rapet' //Sticker Weem
-global.author = 'By DipaLand' //Sticker Weem
+global.namabot = 'BOT OFFICIAL WHATSAPP' //Ganti Jadi Nama Botmu
+global.packname = 'BOT OFFICIAL' //Sticker Weem
+global.author = 'By MrclNotWibu' //Sticker Weem
 global.webme = 'https://xzeebotz.github.io' //Ganti Sama Web Mu
-global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
+global.linkgroup = 'https://chat.whatsapp.com' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
 global.youtube = 'https://youtube.com/c/MrclNotWibu' //Ganti Sama Link Yt Mu
 global.github = 'https://github.com/XzeeBotz' //Ganti Sama Link Github Mu
-global.instagram = 'https://instagram.com/dipaland' //Ganti Sama Link Ig mu
+global.instagram = 'https://instagram.com' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
