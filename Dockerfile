@@ -14,6 +14,4 @@ RUN npm install -g npm@8.13.0
 
 COPY . .
 
-EXPOSE 5000
-
-CMD ["node", "."]
+CMD ["node", "index.js"]
